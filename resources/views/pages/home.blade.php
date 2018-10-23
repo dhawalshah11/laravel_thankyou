@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('content')
 
-    <h1>¡Hola a todos! Bienvenido a mi página de inicio</h1>
+    <h1>This is My HomePage!!!</h1>
 
 
 @stop
